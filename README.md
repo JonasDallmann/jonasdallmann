@@ -1,5 +1,5 @@
 <div align="center">
-[<img src="" align="center" style="width: 100%" />](https://jonas.nrw/images/logo/guy.png)
+  <img src="https://jonas.nrw/images/logo/guy.png" alt="">
 </div>  
   
 
