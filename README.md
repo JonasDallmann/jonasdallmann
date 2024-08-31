@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://jonas.nrw/images/logo/guy.png" alt="">
+  <img src="https://jonas.nrw/images/logo/guy.png" alt="" style="width: 50%; height: auto;">
 </div>  
   
 
