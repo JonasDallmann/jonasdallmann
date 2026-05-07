@@ -23,7 +23,7 @@
 <!-- ───────────────────────────────────────────────────────────────── -->
 
 <div align="center">
-  <img src="https://github.com/jonasdallmann.png" alt="Jonas" width="180" style="border-radius: 50%;"/>
+  <img src="https://images.weserv.nl/?url=github.com/jonasdallmann.png&w=200&h=200&fit=cover&mask=circle" alt="Jonas" width="180"/>
 </div>
 
 <br/>
@@ -138,20 +138,17 @@ motto:       "Build it, break it, fix it, ship it."
 ## 📈 GitHub Stats
 
 <div align="center">
-
-  <a href="https://github.com/jonasdallmann">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonasdallmann&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Jonas's GitHub stats"/>
-  </a>
-  <a href="https://github.com/jonasdallmann">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasdallmann&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages"/>
-  </a>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jonasdallmann&theme=tokyonight" width="98%" alt="Profile Details"/>
 </div>
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=jonasdallmann&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak"/>
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jonasdallmann&theme=tokyonight" height="200" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jonasdallmann&theme=tokyonight&utcOffset=2" height="200" alt="Productive Time"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jonasdallmann&theme=tokyonight" height="200" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jonasdallmann&theme=tokyonight" height="200" alt="Most Commit Language"/>
 </div>
 
 <br/>
@@ -166,28 +163,6 @@ motto:       "Build it, break it, fix it, ship it."
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=jonasdallmann&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=7&margin-w=15" alt="trophies"/>
   </a>
-</div>
-
-<br/>
-
-<!-- ───────────────────────────────────────────────────────────────── -->
-<!--                  📊  CONTRIBUTION ACTIVITY GRAPH  📊                -->
-<!-- ───────────────────────────────────────────────────────────────── -->
-
-## 📊 Profile Summary
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jonasdallmann&theme=tokyonight" width="98%" alt="Profile Details"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jonasdallmann&theme=tokyonight" height="200" alt="Repos per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jonasdallmann&theme=tokyonight" height="200" alt="Most Commit Language"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jonasdallmann&theme=tokyonight&utcOffset=2" height="200" alt="Productive Time"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jonasdallmann&theme=tokyonight" height="200" alt="Stats"/>
 </div>
 
 <br/>
